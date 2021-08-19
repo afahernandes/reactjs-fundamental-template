@@ -1,9 +1,12 @@
 import React from "react";
-
+import Header from './components/header';
 function Component() {
   return (
     //   Code Here
-    <div></div>
+    <div>
+        <Header/>
+
+    </div>
   );
 }
 
